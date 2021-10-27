@@ -1,0 +1,5 @@
+1 > At first go to your project root folder then you access this path 'app\Http\Controllers\SmExamController.php'
+
+2 > Then replace SmExamController.php file 
+
+

@@ -1,0 +1,21 @@
+{
+    "InfixBiometrics": true,
+    "FeesCollection": true,
+    "ResultReports": true,
+    "TemplateSettings": true,
+    "RolePermission": true,
+    "RazorPay": true,
+    "Saas": true,
+    "Zoom": true,
+    "ParentRegistration": true,
+    "SaasSubscription": true,
+    "Inventory": true,
+    "SaasRolePermission": true,
+    "Controller": true,
+    "StaffDepartmentController": true,
+    "StaffDesignationController": true,
+    "StaffController": true,
+    "StudentAbsentNotification": true,
+    "Chat": true,
+    "Lesson": true
+}
